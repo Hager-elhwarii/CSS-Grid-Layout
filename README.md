@@ -1,7 +1,7 @@
 # CSS-Grid :bulb: 
 
- ![image](https://github.com/Hager-elhwarii/CSS-Grid/assets/80959882/4aa9272b-4096-4167-9fc7-a05e126a4c81)
- 
+![image](https://github.com/Hager-elhwarii/CSS-Grid/assets/80959882/057a48bb-9d5b-4426-acf1-6a20cb27384e)
+
 - Learn CSS Grid through simple layout examples. I practiced the key concepts while building three awesome layouts:
   
   - a website
