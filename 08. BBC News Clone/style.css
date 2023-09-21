@@ -87,7 +87,7 @@ div > ul {
 }
 .list {
   border-left: thin solid rgb(190, 190, 190);
-  padding: 0.2rem 0 0.2rem 1rem;
+  padding: 0.2rem 0 0.2rem 2.8rem;
 }
 ul > li {
   transition: all 0.3s ease;
