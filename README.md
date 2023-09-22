@@ -31,10 +31,10 @@ git clone https://github.com/Hager-elhwarii/CSS-Grid-Layout.git
 ```
 
 ## 📌 Resources
-- [Learn CSS Grid](https://fontawesome.com/](https://scrimba.com/learn/cssgrid)
-- [Grid Garden](http://hager.a.elhawary@gmail.com/](https://cssgridgarden.com/)
-- [Grid by Example](https://www.netlify.com/](https://gridbyexample.com/examples/)
-- [CSS Grid the easy way](https://yandex.com/](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+- [Learn CSS Grid](https://scrimba.com/learn/cssgrid)
+- [Grid Garden](https://cssgridgarden.com/)
+- [Grid by Example](https://gridbyexample.com/examples/)
+- [CSS Grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU)
 
 ## 🦄 Author
 If you want to get in-touch with me you can reach me at:
