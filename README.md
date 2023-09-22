@@ -1,6 +1,6 @@
 # CSS Grid Layout Examples :bulb: 
 <a name="readme-top"></a>
-- CSS Grid is a powerful tool that allows  two-dimensional layouts, a set of intersecting horizontal and vertical lines defining columns and rows to be created on the web.
+CSS Grid is a powerful tool that allows  two-dimensional layouts, a set of intersecting horizontal and vertical lines defining columns and rows to be created on the web.
 
 ![image](https://github.com/Hager-elhwarii/CSS-Grid/assets/80959882/057a48bb-9d5b-4426-acf1-6a20cb27384e)
 
