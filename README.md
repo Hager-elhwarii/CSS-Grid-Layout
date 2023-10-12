@@ -10,7 +10,7 @@ I created this repo as a resource to help you better understand and learn Grid, 
 ## 🚀 Getting Started 
 > This is a several examples practicing the key concepts of CSS Grid. Showing different CSS Grid Layout use cases:
 
-- [Simple Grid Layout](https://simple-grid-layout-dottie.netlify.app/)
+- [Simple Grid Layout](https://simple-grid-layout-dottie.netlify.app/){:target="_blank"} 
 - [Image Gallery](https://image-gallery-dottie.netlify.app/)
 - [BBC News Clone](https://bbc-news-clone-dottie.netlify.app/)
   
