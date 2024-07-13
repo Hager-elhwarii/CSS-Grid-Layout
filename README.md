@@ -33,7 +33,7 @@ git clone https://github.com/Hager-elhwarii/CSS-Grid-Layout.git
 ## 🦄 Author
 If you want to get in-touch with me you can reach me at:
 
--  [Email](http://hager.a.elhawary@gmail.com/)
+-  [Email](https://mail.google.com/mail/u/0/?to=hager.a.elhawary@gmail.com&fs=1&tf=cm)
 -  [LinkedIn](https://www.linkedin.com/in/hager-omar-elhawary/)
 -  [GitHub](https://github.com/Hager-elhwarii)
 
